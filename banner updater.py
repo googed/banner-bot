@@ -20,8 +20,6 @@ from imgurpython import ImgurClient
 
 # global reddit session
 r = None
-client_id = 'e4d4eef844f7b61'
-client_secret = 'a52e7291b1bb2151b18492f8e46bb1a91344e57d'
 
 client = ImgurClient(client_id, client_secret)
 
